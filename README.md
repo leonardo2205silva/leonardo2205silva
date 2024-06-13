@@ -1,5 +1,10 @@
-## Hi there 👋
-
+##  👋
+boas vindas ao meu perfil
+-sou estudante do alura 
+-estou me densenvolvendo na linguagem do javascript
+-ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos
+## você pode me encontrar em:
+venancioleonardo13@gmail.com
 <!--
 **leonardo2205silva/leonardo2205silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
