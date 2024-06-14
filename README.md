@@ -1,21 +1,16 @@
-##  👋
-boas vindas ao meu perfil
--sou estudante do alura 
--estou me densenvolvendo na linguagem do javascript
--ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos
-## você pode me encontrar em:
+Boas vindas ao meu perfil 💙
+
+Meu nome é Leonardo
+
+- Estou estudando na [Alura](https//alura.com.br)
+
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço  para minha organização e compartilhamento dos meu projeto  desenvolvidos
+
+### Você entrar em contato comigo 📫
+
 venancioleonardo13@gmail.com
-<!--
-**leonardo2205silva/leonardo2205silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+_ leofsilva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/4FgUpn0lDlcAAAAC/what-huh.gif)
